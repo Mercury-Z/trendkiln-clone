@@ -1,0 +1,1101 @@
+{
+  "generatedAt": "2026-09-14T06:29:05.398Z",
+  "periods": [
+    "daily",
+    "weekly",
+    "monthly"
+  ],
+  "daily": [
+    {
+      "rank": 1,
+      "fullName": "JustVugg/colibri",
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": 30361,
+      "delta": 868,
+      "language": "C",
+      "topics": [],
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "usage": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "strengths": [
+        "Built with C",
+        "Tiny engine, immense model."
+      ],
+      "innovation": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed…",
+      "deltaVsSnapshot": 34
+    },
+    {
+      "rank": 2,
+      "fullName": "ever-co/ever-gauzy",
+      "owner": "ever-co",
+      "repo": "ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "stars": 5391,
+      "delta": 191,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "usage": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "strengths": [
+        "Built with TypeScript"
+      ],
+      "innovation": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "deltaVsSnapshot": 11
+    },
+    {
+      "rank": 3,
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "owner": "bilawalsidhu",
+      "repo": "gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "stars": 32411,
+      "delta": 2680,
+      "language": "JavaScript",
+      "topics": [],
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "usage": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "strengths": [
+        "Built with JavaScript",
+        "Live open source spatial intelligence on a photorealistic 3D globe."
+      ],
+      "innovation": "A spy satellite simulator in your browser, except the data is real.",
+      "deltaVsSnapshot": 28
+    },
+    {
+      "rank": 4,
+      "fullName": "tech-leads-club/agent-skills",
+      "owner": "tech-leads-club",
+      "repo": "agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "stars": 5796,
+      "delta": 265,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "usage": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "strengths": [
+        "Built with TypeScript",
+        "Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confide…"
+      ],
+      "innovation": "The secure, validated skill registry for professional AI coding agents.",
+      "deltaVsSnapshot": 7
+    },
+    {
+      "rank": 5,
+      "fullName": "melgarafael/DeskcommCRM",
+      "owner": "melgarafael",
+      "repo": "DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "stars": 2333,
+      "delta": 432,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "usage": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "strengths": [
+        "Built with TypeScript",
+        "Open alternative to Kommo, Octadesk & Intercom for any business that sells by c…"
+      ],
+      "innovation": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA).",
+      "deltaVsSnapshot": 4
+    },
+    {
+      "rank": 6,
+      "fullName": "calesthio/OpenMontage",
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars": 58709,
+      "delta": 380,
+      "language": "Python",
+      "topics": [],
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "usage": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "strengths": [
+        "Built with Python",
+        "12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge…"
+      ],
+      "innovation": "World's first open-source, agentic video production system.",
+      "deltaVsSnapshot": 18
+    },
+    {
+      "rank": 7,
+      "fullName": "asgeirtj/system_prompts_leaks",
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars": 66267,
+      "delta": 706,
+      "language": "JavaScript",
+      "topics": [],
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "usage": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi an…",
+      "strengths": [
+        "Built with JavaScript",
+        "OpenAI - ChatGPT GPT-6-Astra, Codex."
+      ],
+      "innovation": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude…",
+      "deltaVsSnapshot": 13
+    },
+    {
+      "rank": 8,
+      "fullName": "vxcontrol/pentagi",
+      "owner": "vxcontrol",
+      "repo": "pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "stars": 24151,
+      "delta": 590,
+      "language": "Go",
+      "topics": [],
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "usage": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "strengths": [
+        "Built with Go"
+      ],
+      "innovation": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "deltaVsSnapshot": 9
+    },
+    {
+      "rank": 9,
+      "fullName": "multimodal-art-projection/YuE",
+      "owner": "multimodal-art-projection",
+      "repo": "YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "stars": 7920,
+      "delta": 487,
+      "language": "Python",
+      "topics": [],
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "usage": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "strengths": [
+        "Built with Python"
+      ],
+      "innovation": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic mus…",
+      "deltaVsSnapshot": 11
+    },
+    {
+      "rank": 10,
+      "fullName": "yuliskov/SmartTube",
+      "owner": "yuliskov",
+      "repo": "SmartTube",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "stars": 33522,
+      "delta": 233,
+      "language": "Java",
+      "topics": [],
+      "description": "Browse media content with your own rules on Android TV",
+      "usage": "Browse media content with your own rules on Android TV",
+      "strengths": [
+        "Built with Java"
+      ],
+      "innovation": "Browse media content with your own rules on Android TV",
+      "deltaVsSnapshot": 3
+    },
+    {
+      "rank": 11,
+      "fullName": "alphaXiv/OpenResearch",
+      "owner": "alphaXiv",
+      "repo": "OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "stars": 2243,
+      "delta": 289,
+      "language": "Rust",
+      "topics": [],
+      "description": "Turn your coding agents into research agents",
+      "usage": "Turn your coding agents into research agents",
+      "strengths": [
+        "Built with Rust"
+      ],
+      "innovation": "Turn your coding agents into research agents",
+      "deltaVsSnapshot": 5
+    },
+    {
+      "rank": 12,
+      "fullName": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "stars": 27515,
+      "delta": 2632,
+      "language": "Python",
+      "topics": [],
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "usage": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "strengths": [
+        "Built with Python"
+      ],
+      "innovation": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice…",
+      "deltaVsSnapshot": 28
+    },
+    {
+      "rank": 13,
+      "fullName": "SnailSploit/Claude-Red",
+      "owner": "SnailSploit",
+      "repo": "Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "stars": 4290,
+      "delta": 506,
+      "language": "Python",
+      "topics": [],
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "usage": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface…",
+      "strengths": [
+        "Built with Python",
+        "Each skill is a structured SKILL.md file that primes Claude with expert-level m…"
+      ],
+      "innovation": "claude-red is a curated library of offensive security skills designed for the Claude skil…",
+      "deltaVsSnapshot": 4
+    },
+    {
+      "rank": 14,
+      "fullName": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars": 23845,
+      "delta": 443,
+      "language": "Go",
+      "topics": [],
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "usage": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL in…",
+      "strengths": [
+        "Built with Go",
+        "Hybrid architecture code review tool: deterministic pipelines + LLM Agent, prec…"
+      ],
+      "innovation": "Fast, efficient, battle-tested at Alibaba's scale.",
+      "deltaVsSnapshot": 20
+    },
+    {
+      "rank": 15,
+      "fullName": "jihe520/MathModelAgent",
+      "owner": "jihe520",
+      "repo": "MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "stars": 5448,
+      "delta": 246,
+      "language": "Python",
+      "topics": [],
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "usage": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "strengths": [
+        "Built with Python",
+        "An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel a…"
+      ],
+      "innovation": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。",
+      "deltaVsSnapshot": 4
+    },
+    {
+      "rank": 16,
+      "fullName": "tonhowtf/omniget",
+      "owner": "tonhowtf",
+      "repo": "omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "stars": 11960,
+      "delta": 507,
+      "language": "Rust",
+      "topics": [],
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "usage": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music librar…",
+      "strengths": [
+        "Built with Rust",
+        "Free open-source desktop app for Windows, macOS and Linux, with a built-in cour…"
+      ],
+      "innovation": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no te…",
+      "deltaVsSnapshot": 16
+    },
+    {
+      "rank": 17,
+      "fullName": "jiji262/douyin-downloader",
+      "owner": "jiji262",
+      "repo": "douyin-downloader",
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "stars": 11550,
+      "delta": 452,
+      "language": "Python",
+      "topics": [],
+      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "usage": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "strengths": [
+        "Built with Python",
+        "抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。"
+      ],
+      "innovation": "A practical Douyin downloader for both single-item and profile batch downloads, with prog…",
+      "deltaVsSnapshot": 13
+    },
+    {
+      "rank": 18,
+      "fullName": "Swordfish90/cool-retro-term",
+      "owner": "Swordfish90",
+      "repo": "cool-retro-term",
+      "url": "https://github.com/Swordfish90/cool-retro-term",
+      "stars": 26294,
+      "delta": 57,
+      "language": "QML",
+      "topics": [],
+      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "usage": "A good looking terminal emulator which mimics the old cathode display...",
+      "strengths": [
+        "Built with QML"
+      ],
+      "innovation": "A good looking terminal emulator which mimics the old cathode display...",
+      "deltaVsSnapshot": 0
+    },
+    {
+      "rank": 19,
+      "fullName": "huggingface/transformers",
+      "owner": "huggingface",
+      "repo": "transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "stars": 165673,
+      "delta": 152,
+      "language": "Python",
+      "topics": [],
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "usage": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "strengths": [
+        "Built with Python"
+      ],
+      "innovation": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning mod…",
+      "deltaVsSnapshot": 6
+    }
+  ],
+  "weekly": [
+    {
+      "rank": 1,
+      "fullName": "ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars": 44644,
+      "delta": 16740,
+      "language": "Python",
+      "topics": [],
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "usage": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "strengths": [
+        "Built with Python",
+        "ADHD-friendly output."
+      ],
+      "innovation": "A skill to stop your coding agent from burying the answer.",
+      "deltaVsSnapshot": 13
+    },
+    {
+      "rank": 2,
+      "fullName": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars": 257903,
+      "delta": 7264,
+      "language": "JavaScript",
+      "topics": [],
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "usage": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "strengths": [
+        "Built with JavaScript",
+        "Skills, instincts, memory, security, and research-first development for Claude…"
+      ],
+      "innovation": "The agent harness performance optimization system.",
+      "deltaVsSnapshot": 13
+    },
+    {
+      "rank": 3,
+      "fullName": "openai/plugins",
+      "owner": "openai",
+      "repo": "plugins",
+      "url": "https://github.com/openai/plugins",
+      "stars": 6645,
+      "delta": 1181,
+      "language": "JavaScript",
+      "topics": [],
+      "description": "OpenAI Plugins",
+      "usage": "OpenAI Plugins",
+      "strengths": [
+        "Built with JavaScript"
+      ],
+      "innovation": "OpenAI Plugins",
+      "deltaVsSnapshot": 1
+    },
+    {
+      "rank": 4,
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "owner": "bilawalsidhu",
+      "repo": "gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "stars": 32411,
+      "delta": 12931,
+      "language": "JavaScript",
+      "topics": [],
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "usage": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "strengths": [
+        "Built with JavaScript",
+        "Live open source spatial intelligence on a photorealistic 3D globe."
+      ],
+      "innovation": "A spy satellite simulator in your browser, except the data is real.",
+      "deltaVsSnapshot": 28
+    },
+    {
+      "rank": 5,
+      "fullName": "mksglu/context-mode",
+      "owner": "mksglu",
+      "repo": "context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "stars": 22704,
+      "delta": 2102,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "usage": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "strengths": [
+        "Built with TypeScript",
+        "Sandboxes tool output (98% reduction), persists session memory, and enforces ro…"
+      ],
+      "innovation": "Context window optimization for AI coding agents.",
+      "deltaVsSnapshot": 3
+    },
+    {
+      "rank": 6,
+      "fullName": "DietrichGebert/ponytail",
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars": 137601,
+      "delta": 8444,
+      "language": "JavaScript",
+      "topics": [],
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "usage": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "strengths": [
+        "Built with JavaScript",
+        "The best code is the code you never wrote."
+      ],
+      "innovation": "Makes your AI agent think like the laziest senior dev in the room.",
+      "deltaVsSnapshot": 15
+    },
+    {
+      "rank": 7,
+      "fullName": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": 61229,
+      "delta": 10132,
+      "language": "JavaScript",
+      "topics": [],
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "usage": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "strengths": [
+        "Built with JavaScript"
+      ],
+      "innovation": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and li…",
+      "deltaVsSnapshot": 31
+    },
+    {
+      "rank": 8,
+      "fullName": "openai/skills",
+      "owner": "openai",
+      "repo": "skills",
+      "url": "https://github.com/openai/skills",
+      "stars": 27124,
+      "delta": 1622,
+      "language": "Python",
+      "topics": [],
+      "description": "Skills Catalog for Codex",
+      "usage": "Skills Catalog for Codex",
+      "strengths": [
+        "Built with Python"
+      ],
+      "innovation": "Skills Catalog for Codex",
+      "deltaVsSnapshot": 1
+    },
+    {
+      "rank": 9,
+      "fullName": "heygen-com/hyperframes",
+      "owner": "heygen-com",
+      "repo": "hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "stars": 49730,
+      "delta": 5146,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "Write HTML. Render video. Built for agents.",
+      "usage": "Write HTML. Render video. Built for agents.",
+      "strengths": [
+        "Built with TypeScript",
+        "Render video."
+      ],
+      "innovation": "Write HTML.",
+      "deltaVsSnapshot": 5
+    },
+    {
+      "rank": 10,
+      "fullName": "microsoft/markitdown",
+      "owner": "microsoft",
+      "repo": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 183711,
+      "delta": 5191,
+      "language": "Python",
+      "topics": [],
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "usage": "Python tool for converting files and office documents to Markdown.",
+      "strengths": [
+        "Built with Python"
+      ],
+      "innovation": "Python tool for converting files and office documents to Markdown.",
+      "deltaVsSnapshot": 5
+    },
+    {
+      "rank": 11,
+      "fullName": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars": 286325,
+      "delta": 4068,
+      "language": "Shell",
+      "topics": [],
+      "description": "An agentic skills framework & software development methodology that works.",
+      "usage": "An agentic skills framework & software development methodology that works.",
+      "strengths": [
+        "Built with Shell"
+      ],
+      "innovation": "An agentic skills framework & software development methodology that works.",
+      "deltaVsSnapshot": 4
+    },
+    {
+      "rank": 12,
+      "fullName": "coreyhaines31/marketingskills",
+      "owner": "coreyhaines31",
+      "repo": "marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "stars": 50068,
+      "delta": 2678,
+      "language": "JavaScript",
+      "topics": [],
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "usage": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "strengths": [
+        "Built with JavaScript",
+        "CRO, copywriting, SEO, analytics, and growth engineering."
+      ],
+      "innovation": "Marketing skills for Claude Code and AI agents.",
+      "deltaVsSnapshot": 5
+    },
+    {
+      "rank": 13,
+      "fullName": "ChromeDevTools/chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "stars": 51866,
+      "delta": 736,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "Chrome DevTools for coding agents",
+      "usage": "Chrome DevTools for coding agents",
+      "strengths": [
+        "Built with TypeScript"
+      ],
+      "innovation": "Chrome DevTools for coding agents",
+      "deltaVsSnapshot": 1
+    },
+    {
+      "rank": 14,
+      "fullName": "cathrynlavery/diagram-design",
+      "owner": "cathrynlavery",
+      "repo": "diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars": 39394,
+      "delta": 7129,
+      "language": "HTML",
+      "topics": [],
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "usage": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "strengths": [
+        "Built with HTML",
+        "Self-contained HTML + SVG."
+      ],
+      "innovation": "38 editorial diagram types for Claude Code, Codex, and Pi.",
+      "deltaVsSnapshot": 16
+    },
+    {
+      "rank": 15,
+      "fullName": "THU-MAIC/OpenMAIC",
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "stars": 36589,
+      "delta": 4202,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "usage": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "strengths": [
+        "Built with TypeScript"
+      ],
+      "innovation": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experienc…",
+      "deltaVsSnapshot": 5
+    },
+    {
+      "rank": 16,
+      "fullName": "Tencent/WeKnora",
+      "owner": "Tencent",
+      "repo": "WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "stars": 22970,
+      "delta": 1302,
+      "language": "Go",
+      "topics": [],
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "usage": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "strengths": [
+        "Built with Go"
+      ],
+      "innovation": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomou…",
+      "deltaVsSnapshot": 6
+    },
+    {
+      "rank": 17,
+      "fullName": "blader/humanizer",
+      "owner": "blader",
+      "repo": "humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "stars": 47792,
+      "delta": 3673,
+      "language": "Python",
+      "topics": [],
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "usage": "Agent skill that removes signs of AI-generated writing from text",
+      "strengths": [
+        "Built with Python"
+      ],
+      "innovation": "Agent skill that removes signs of AI-generated writing from text",
+      "deltaVsSnapshot": 8
+    },
+    {
+      "rank": 18,
+      "fullName": "max-sixty/worktrunk",
+      "owner": "max-sixty",
+      "repo": "worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "stars": 7560,
+      "delta": 588,
+      "language": "Rust",
+      "topics": [],
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "usage": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "strengths": [
+        "Built with Rust"
+      ],
+      "innovation": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "deltaVsSnapshot": 0
+    },
+    {
+      "rank": 19,
+      "fullName": "humanlayer/skills",
+      "owner": "humanlayer",
+      "repo": "skills",
+      "url": "https://github.com/humanlayer/skills",
+      "stars": 4021,
+      "delta": 1004,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "",
+      "usage": "Open-source project: humanlayer/skills",
+      "strengths": [
+        "Built with TypeScript"
+      ],
+      "innovation": "",
+      "deltaVsSnapshot": 0
+    },
+    {
+      "rank": 20,
+      "fullName": "earthtojake/text-to-cad",
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "stars": 15647,
+      "delta": 1054,
+      "language": "Python",
+      "topics": [],
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "usage": "A library of agent skills for CAD, CAE and CAM",
+      "strengths": [
+        "Built with Python"
+      ],
+      "innovation": "A library of agent skills for CAD, CAE and CAM",
+      "deltaVsSnapshot": 2
+    },
+    {
+      "rank": 21,
+      "fullName": "petergyang/no-ai-slop",
+      "owner": "petergyang",
+      "repo": "no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "stars": 9286,
+      "delta": 1668,
+      "language": "Python",
+      "topics": [],
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "usage": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "strengths": [
+        "Built with Python"
+      ],
+      "innovation": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "deltaVsSnapshot": 3
+    },
+    {
+      "rank": 22,
+      "fullName": "github/spec-kit",
+      "owner": "github",
+      "repo": "spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "stars": 136516,
+      "delta": 2642,
+      "language": "Python",
+      "topics": [],
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "usage": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "strengths": [
+        "Built with Python"
+      ],
+      "innovation": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "deltaVsSnapshot": 5
+    },
+    {
+      "rank": 23,
+      "fullName": "kunchenguid/firstmate",
+      "owner": "kunchenguid",
+      "repo": "firstmate",
+      "url": "https://github.com/kunchenguid/firstmate",
+      "stars": 5805,
+      "delta": 778,
+      "language": "Shell",
+      "topics": [],
+      "description": "Talk to one agent. Ship with a crew.",
+      "usage": "Talk to one agent. Ship with a crew.",
+      "strengths": [
+        "Built with Shell",
+        "Ship with a crew."
+      ],
+      "innovation": "Talk to one agent.",
+      "deltaVsSnapshot": 1
+    }
+  ],
+  "monthly": [
+    {
+      "rank": 1,
+      "fullName": "omacom/omarchy",
+      "owner": "omacom",
+      "repo": "omarchy",
+      "url": "https://github.com/omacom/omarchy",
+      "stars": 40914,
+      "delta": 16489,
+      "language": "Shell",
+      "topics": [],
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "usage": "Beautiful, Modern & Opinionated Linux",
+      "strengths": [
+        "Built with Shell"
+      ],
+      "innovation": "Beautiful, Modern & Opinionated Linux",
+      "deltaVsSnapshot": 3
+    },
+    {
+      "rank": 2,
+      "fullName": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": 61229,
+      "delta": 48808,
+      "language": "JavaScript",
+      "topics": [],
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "usage": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "strengths": [
+        "Built with JavaScript"
+      ],
+      "innovation": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and li…",
+      "deltaVsSnapshot": 31
+    },
+    {
+      "rank": 3,
+      "fullName": "anthropics/claude-plugins-community",
+      "owner": "anthropics",
+      "repo": "claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "stars": 3961,
+      "delta": 3635,
+      "language": "Python",
+      "topics": [],
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "usage": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "strengths": [
+        "Built with Python",
+        "Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
+      ],
+      "innovation": "Community plugin marketplace for Claude Cowork and Claude Code.",
+      "deltaVsSnapshot": 1
+    },
+    {
+      "rank": 4,
+      "fullName": "AprilNEA/OpenLogi",
+      "owner": "AprilNEA",
+      "repo": "OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "stars": 20977,
+      "delta": 12557,
+      "language": "Rust",
+      "topics": [],
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "usage": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "strengths": [
+        "Built with Rust",
+        "No account, no telemetry."
+      ],
+      "innovation": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap butt…",
+      "deltaVsSnapshot": 1
+    },
+    {
+      "rank": 5,
+      "fullName": "cursor/plugins",
+      "owner": "cursor",
+      "repo": "plugins",
+      "url": "https://github.com/cursor/plugins",
+      "stars": 7643,
+      "delta": 4967,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "Cursor plugin specification and official plugins",
+      "usage": "Cursor plugin specification and official plugins",
+      "strengths": [
+        "Built with TypeScript"
+      ],
+      "innovation": "Cursor plugin specification and official plugins",
+      "deltaVsSnapshot": 2
+    },
+    {
+      "rank": 6,
+      "fullName": "volcengine/OpenViking",
+      "owner": "volcengine",
+      "repo": "OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "stars": 37087,
+      "delta": 8745,
+      "language": "Python",
+      "topics": [],
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "usage": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "strengths": [
+        "Built with Python",
+        "Unify Agent Memory, Knowledge RAG and Skills."
+      ],
+      "innovation": "Self-evolving Context Database for AI Agents.",
+      "deltaVsSnapshot": 4
+    },
+    {
+      "rank": 7,
+      "fullName": "cathrynlavery/diagram-design",
+      "owner": "cathrynlavery",
+      "repo": "diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars": 39394,
+      "delta": 26213,
+      "language": "HTML",
+      "topics": [],
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "usage": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "strengths": [
+        "Built with HTML",
+        "Self-contained HTML + SVG."
+      ],
+      "innovation": "38 editorial diagram types for Claude Code, Codex, and Pi.",
+      "deltaVsSnapshot": 16
+    },
+    {
+      "rank": 8,
+      "fullName": "freestylefly/awesome-gpt-image-2",
+      "owner": "freestylefly",
+      "repo": "awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "stars": 31723,
+      "delta": 21897,
+      "language": "JavaScript",
+      "topics": [],
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "usage": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "strengths": [
+        "Built with JavaScript"
+      ],
+      "innovation": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区…",
+      "deltaVsSnapshot": 3
+    },
+    {
+      "rank": 9,
+      "fullName": "THU-MAIC/OpenMAIC",
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "stars": 36589,
+      "delta": 15888,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "usage": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "strengths": [
+        "Built with TypeScript"
+      ],
+      "innovation": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experienc…",
+      "deltaVsSnapshot": 5
+    },
+    {
+      "rank": 10,
+      "fullName": "ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars": 44644,
+      "delta": 24025,
+      "language": "Python",
+      "topics": [],
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "usage": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "strengths": [
+        "Built with Python",
+        "ADHD-friendly output."
+      ],
+      "innovation": "A skill to stop your coding agent from burying the answer.",
+      "deltaVsSnapshot": 13
+    },
+    {
+      "rank": 11,
+      "fullName": "vorssaint/vorssaint-utils",
+      "owner": "vorssaint",
+      "repo": "vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "stars": 18820,
+      "delta": 13520,
+      "language": "Swift",
+      "topics": [],
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "usage": "Free and open-source macOS menu bar toolkit.",
+      "strengths": [
+        "Built with Swift"
+      ],
+      "innovation": "Free and open-source macOS menu bar toolkit.",
+      "deltaVsSnapshot": 6
+    },
+    {
+      "rank": 12,
+      "fullName": "modular/modular",
+      "owner": "modular",
+      "repo": "modular",
+      "url": "https://github.com/modular/modular",
+      "stars": 29732,
+      "delta": 3049,
+      "language": "Mojo",
+      "topics": [],
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "usage": "The Modular Platform (includes MAX & Mojo)",
+      "strengths": [
+        "Built with Mojo"
+      ],
+      "innovation": "The Modular Platform (includes MAX & Mojo)",
+      "deltaVsSnapshot": 0
+    },
+    {
+      "rank": 13,
+      "fullName": "akitaonrails/ai-memory",
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "stars": 6719,
+      "delta": 5269,
+      "language": "Rust",
+      "topics": [],
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "usage": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "strengths": [
+        "Built with Rust"
+      ],
+      "innovation": "Solution for long term memory for agent coding CLIs and to facilitate handoff between dif…",
+      "deltaVsSnapshot": 1
+    },
+    {
+      "rank": 14,
+      "fullName": "Lakr233/vphone-cli",
+      "owner": "Lakr233",
+      "repo": "vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "stars": 11865,
+      "delta": 4221,
+      "language": "Swift",
+      "topics": [],
+      "description": "",
+      "usage": "Open-source project: Lakr233/vphone-cli",
+      "strengths": [
+        "Built with Swift"
+      ],
+      "innovation": "",
+      "deltaVsSnapshot": 0
+    },
+    {
+      "rank": 15,
+      "fullName": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "stars": 27515,
+      "delta": 15895,
+      "language": "Python",
+      "topics": [],
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "usage": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "strengths": [
+        "Built with Python"
+      ],
+      "innovation": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice…",
+      "deltaVsSnapshot": 28
+    },
+    {
+      "rank": 16,
+      "fullName": "apache/maka",
+      "owner": "apache",
+      "repo": "maka",
+      "url": "https://github.com/apache/maka",
+      "stars": 5363,
+      "delta": 4056,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+      "usage": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+      "strengths": [
+        "Built with TypeScript"
+      ],
+      "innovation": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete reco…",
+      "deltaVsSnapshot": 1
+    },
+    {
+      "rank": 17,
+      "fullName": "cordiverse/cordis",
+      "owner": "cordiverse",
+      "repo": "cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "stars": 8467,
+      "delta": 7887,
+      "language": "TypeScript",
+      "topics": [],
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "usage": "Meta-Framework of Spatiotemporal Composability",
+      "strengths": [
+        "Built with TypeScript"
+      ],
+      "innovation": "Meta-Framework of Spatiotemporal Composability",
+      "deltaVsSnapshot": 0
+    }
+  ]
+}

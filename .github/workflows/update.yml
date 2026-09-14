@@ -1,0 +1,43 @@
+name: Daily data update
+
+on:
+  schedule:
+    # Run twice a day (UTC). GitHub Pages auto-rebuilds on every push to main.
+    - cron: '17 1,13 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Collect data (GitHub Trending / Models / RSS)
+        run: node scripts/collect.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & push
+        run: |
+          git config user.name "trendkiln-bot"
+          git config user.email "actions@github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes — nothing to commit."
+          else
+            git commit -m "chore(data): daily snapshot update"
+            git push
+          fi

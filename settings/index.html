@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>设置 · Trendkiln</title>
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <header class="topbar"><div class="topbar-inner" id="app-nav"></div></header>
+  <main class="wrap">
+    <div id="page-root">
+      <div class="page-head">
+        <h1 class="page-title" id="page-title"></h1>
+        <p class="page-sub" id="page-sub"></p>
+      </div>
+      <div class="settings-block" id="settings-lang-block">
+        <h3 data-i18n="langLabel"></h3>
+        <div class="seg" id="lang-seg">
+          <button data-lang="zh">中文</button>
+          <button data-lang="en">English</button>
+        </div>
+        <div class="settings-hint" id="lang-hint"></div>
+      </div>
+      <div class="settings-block">
+        <h3 id="digest-title"></h3>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label" id="digest-label"></div>
+            <div class="settings-hint" id="digest-hint"></div>
+          </div>
+          <input type="number" id="digest-count" min="1" max="20" step="1">
+        </div>
+      </div>
+      <div class="settings-block">
+        <h3 id="layout-title"></h3>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label" id="layout-label"></div>
+            <div class="settings-hint" id="layout-hint"></div>
+          </div>
+          <div class="seg" id="layout-seg">
+            <button data-layout="cards"></button>
+            <button data-layout="table"></button>
+          </div>
+        </div>
+      </div>
+      <div class="settings-block">
+        <h3 id="reset-title"></h3>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label" id="reset-label"></div>
+            <div class="settings-hint" id="reset-hint"></div>
+          </div>
+          <button class="btn danger" id="reset-btn"></button>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer class="footer" id="footer"></footer>
+  <script>window.BASE = '../';</script>
+  <script src="../assets/app.js"></script>
+  <script src="../assets/settings.js"></script>
+</body>
+</html>

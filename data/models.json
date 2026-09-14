@@ -1,0 +1,899 @@
+{
+  "generatedAt": "2026-09-14T06:29:05.403Z",
+  "sourceNote": "Artificial Analysis 公开榜快照（人工维护，随榜单更新而刷新；采集器每日将其写入 models.json 并叠加历史名次变化）",
+  "companies": {
+    "anthropic": {
+      "zh": "Anthropic",
+      "en": "Anthropic"
+    },
+    "openai": {
+      "zh": "OpenAI",
+      "en": "OpenAI"
+    },
+    "google": {
+      "zh": "Google",
+      "en": "Google"
+    },
+    "xai": {
+      "zh": "xAI",
+      "en": "xAI"
+    },
+    "moonshot": {
+      "zh": "月之暗面",
+      "en": "Moonshot"
+    },
+    "zhipu": {
+      "zh": "智谱",
+      "en": "Zhipu"
+    },
+    "deepseek": {
+      "zh": "深度求索",
+      "en": "DeepSeek"
+    },
+    "alibaba": {
+      "zh": "阿里",
+      "en": "Alibaba"
+    },
+    "meta": {
+      "zh": "Meta",
+      "en": "Meta"
+    },
+    "blackforestlabs": {
+      "zh": "Black Forest Labs",
+      "en": "Black Forest Labs"
+    },
+    "ideogram": {
+      "zh": "Ideogram",
+      "en": "Ideogram"
+    },
+    "midjourney": {
+      "zh": "Midjourney",
+      "en": "Midjourney"
+    },
+    "stability": {
+      "zh": "Stability AI",
+      "en": "Stability AI"
+    },
+    "recraft": {
+      "zh": "Recraft",
+      "en": "Recraft"
+    },
+    "tencent": {
+      "zh": "腾讯",
+      "en": "Tencent"
+    },
+    "bytedance": {
+      "zh": "字节跳动",
+      "en": "ByteDance"
+    },
+    "kuaishou": {
+      "zh": "快手",
+      "en": "Kuaishou"
+    },
+    "runway": {
+      "zh": "Runway",
+      "en": "Runway"
+    },
+    "luma": {
+      "zh": "Luma AI",
+      "en": "Luma AI"
+    },
+    "minimax": {
+      "zh": "MiniMax",
+      "en": "MiniMax"
+    },
+    "pika": {
+      "zh": "Pika",
+      "en": "Pika"
+    },
+    "pixverse": {
+      "zh": "PixVerse",
+      "en": "PixVerse"
+    }
+  },
+  "categories": {
+    "intelligence": {
+      "label": {
+        "zh": "智能指数",
+        "en": "Intelligence Index"
+      },
+      "note": {
+        "zh": "综合智能表现，越高越好",
+        "en": "Overall intelligence, higher is better"
+      },
+      "unit": "index",
+      "higherIsBetter": true,
+      "sourceUrl": "https://artificialanalysis.ai/leaderboards/intelligence",
+      "entries": [
+        {
+          "rank": 1,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Claude Opus 4.5 (max)",
+          "company": {
+            "zh": "Anthropic",
+            "en": "Anthropic"
+          },
+          "companyKey": "anthropic",
+          "score": 90,
+          "url": "https://artificialanalysis.ai/models/claude-opus-4-5"
+        },
+        {
+          "rank": 2,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GPT-5.2 (max)",
+          "company": {
+            "zh": "OpenAI",
+            "en": "OpenAI"
+          },
+          "companyKey": "openai",
+          "score": 85,
+          "url": "https://artificialanalysis.ai/models/gpt-5-2"
+        },
+        {
+          "rank": 3,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Gemini 3 Pro (max)",
+          "company": {
+            "zh": "Google",
+            "en": "Google"
+          },
+          "companyKey": "google",
+          "score": 83,
+          "url": "https://artificialanalysis.ai/models/gemini-3-pro"
+        },
+        {
+          "rank": 4,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Grok 4.1 (max)",
+          "company": {
+            "zh": "xAI",
+            "en": "xAI"
+          },
+          "companyKey": "xai",
+          "score": 79,
+          "url": "https://artificialanalysis.ai/models/grok-4-1"
+        },
+        {
+          "rank": 5,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Claude Sonnet 4.5 (high)",
+          "company": {
+            "zh": "Anthropic",
+            "en": "Anthropic"
+          },
+          "companyKey": "anthropic",
+          "score": 78,
+          "url": "https://artificialanalysis.ai/models/claude-sonnet-4-5"
+        },
+        {
+          "rank": 6,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Kimi K2 Thinking (max)",
+          "company": {
+            "zh": "月之暗面",
+            "en": "Moonshot"
+          },
+          "companyKey": "moonshot",
+          "score": 76,
+          "url": "https://artificialanalysis.ai/models/kimi-k2-thinking"
+        },
+        {
+          "rank": 7,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GLM-4.6 (max)",
+          "company": {
+            "zh": "智谱",
+            "en": "Zhipu"
+          },
+          "companyKey": "zhipu",
+          "score": 74,
+          "url": "https://artificialanalysis.ai/models/glm-4-6"
+        },
+        {
+          "rank": 8,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GPT-5.1 (high)",
+          "company": {
+            "zh": "OpenAI",
+            "en": "OpenAI"
+          },
+          "companyKey": "openai",
+          "score": 73,
+          "url": "https://artificialanalysis.ai/models/gpt-5-1"
+        },
+        {
+          "rank": 9,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Gemini 3 Flash (high)",
+          "company": {
+            "zh": "Google",
+            "en": "Google"
+          },
+          "companyKey": "google",
+          "score": 71,
+          "url": "https://artificialanalysis.ai/models/gemini-3-flash"
+        },
+        {
+          "rank": 10,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "DeepSeek V3.2 (max)",
+          "company": {
+            "zh": "深度求索",
+            "en": "DeepSeek"
+          },
+          "companyKey": "deepseek",
+          "score": 68,
+          "url": "https://artificialanalysis.ai/models/deepseek-v3-2"
+        },
+        {
+          "rank": 11,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GPT-5.2 mini (max)",
+          "company": {
+            "zh": "OpenAI",
+            "en": "OpenAI"
+          },
+          "companyKey": "openai",
+          "score": 66,
+          "url": "https://artificialanalysis.ai/models/gpt-5-2-mini"
+        },
+        {
+          "rank": 12,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Qwen3.5 (max)",
+          "company": {
+            "zh": "阿里",
+            "en": "Alibaba"
+          },
+          "companyKey": "alibaba",
+          "score": 64,
+          "url": "https://artificialanalysis.ai/models/qwen3-5"
+        }
+      ]
+    },
+    "coding_agent": {
+      "label": {
+        "zh": "编程智能体指数",
+        "en": "Coding Agent Index"
+      },
+      "note": {
+        "zh": "自主编程智能体表现，越高越好",
+        "en": "Autonomous coding agent performance, higher is better"
+      },
+      "unit": "index",
+      "higherIsBetter": true,
+      "sourceUrl": "https://artificialanalysis.ai/leaderboards/coding-agent-index",
+      "entries": [
+        {
+          "rank": 1,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Claude Sonnet 4.5",
+          "company": {
+            "zh": "Anthropic",
+            "en": "Anthropic"
+          },
+          "companyKey": "anthropic",
+          "score": 86,
+          "url": "https://artificialanalysis.ai/models/claude-sonnet-4-5"
+        },
+        {
+          "rank": 2,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Claude Opus 4.5",
+          "company": {
+            "zh": "Anthropic",
+            "en": "Anthropic"
+          },
+          "companyKey": "anthropic",
+          "score": 85,
+          "url": "https://artificialanalysis.ai/models/claude-opus-4-5"
+        },
+        {
+          "rank": 3,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Gemini 3 Pro",
+          "company": {
+            "zh": "Google",
+            "en": "Google"
+          },
+          "companyKey": "google",
+          "score": 82,
+          "url": "https://artificialanalysis.ai/models/gemini-3-pro"
+        },
+        {
+          "rank": 4,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GPT-5.2",
+          "company": {
+            "zh": "OpenAI",
+            "en": "OpenAI"
+          },
+          "companyKey": "openai",
+          "score": 80,
+          "url": "https://artificialanalysis.ai/models/gpt-5-2"
+        },
+        {
+          "rank": 5,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Grok 4.1 Code",
+          "company": {
+            "zh": "xAI",
+            "en": "xAI"
+          },
+          "companyKey": "xai",
+          "score": 77,
+          "url": "https://artificialanalysis.ai/models/grok-4-1-code"
+        },
+        {
+          "rank": 6,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GPT-5.2 mini",
+          "company": {
+            "zh": "OpenAI",
+            "en": "OpenAI"
+          },
+          "companyKey": "openai",
+          "score": 74,
+          "url": "https://artificialanalysis.ai/models/gpt-5-2-mini"
+        },
+        {
+          "rank": 7,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GLM-4.6",
+          "company": {
+            "zh": "智谱",
+            "en": "Zhipu"
+          },
+          "companyKey": "zhipu",
+          "score": 72,
+          "url": "https://artificialanalysis.ai/models/glm-4-6"
+        },
+        {
+          "rank": 8,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Kimi K2 Thinking",
+          "company": {
+            "zh": "月之暗面",
+            "en": "Moonshot"
+          },
+          "companyKey": "moonshot",
+          "score": 71,
+          "url": "https://artificialanalysis.ai/models/kimi-k2-thinking"
+        },
+        {
+          "rank": 9,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Gemini 3 Flash",
+          "company": {
+            "zh": "Google",
+            "en": "Google"
+          },
+          "companyKey": "google",
+          "score": 70,
+          "url": "https://artificialanalysis.ai/models/gemini-3-flash"
+        },
+        {
+          "rank": 10,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "DeepSeek V3.2",
+          "company": {
+            "zh": "深度求索",
+            "en": "DeepSeek"
+          },
+          "companyKey": "deepseek",
+          "score": 67,
+          "url": "https://artificialanalysis.ai/models/deepseek-v3-2"
+        },
+        {
+          "rank": 11,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Qwen3.5",
+          "company": {
+            "zh": "阿里",
+            "en": "Alibaba"
+          },
+          "companyKey": "alibaba",
+          "score": 65,
+          "url": "https://artificialanalysis.ai/models/qwen3-5"
+        }
+      ]
+    },
+    "coding_cost": {
+      "label": {
+        "zh": "编程成本",
+        "en": "Coding Cost"
+      },
+      "note": {
+        "zh": "完成标准任务的平均成本（美元），越低越好",
+        "en": "Average cost per standard task (USD), lower is better"
+      },
+      "unit": "$",
+      "higherIsBetter": false,
+      "sourceUrl": "https://artificialanalysis.ai/leaderboards/coding-cost",
+      "entries": [
+        {
+          "rank": 1,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "DeepSeek V3.2",
+          "company": {
+            "zh": "深度求索",
+            "en": "DeepSeek"
+          },
+          "companyKey": "deepseek",
+          "score": 0.06,
+          "url": "https://artificialanalysis.ai/models/deepseek-v3-2"
+        },
+        {
+          "rank": 2,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Qwen3.5",
+          "company": {
+            "zh": "阿里",
+            "en": "Alibaba"
+          },
+          "companyKey": "alibaba",
+          "score": 0.08,
+          "url": "https://artificialanalysis.ai/models/qwen3-5"
+        },
+        {
+          "rank": 3,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Gemini 3 Flash",
+          "company": {
+            "zh": "Google",
+            "en": "Google"
+          },
+          "companyKey": "google",
+          "score": 0.11,
+          "url": "https://artificialanalysis.ai/models/gemini-3-flash"
+        },
+        {
+          "rank": 4,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GLM-4.6",
+          "company": {
+            "zh": "智谱",
+            "en": "Zhipu"
+          },
+          "companyKey": "zhipu",
+          "score": 0.14,
+          "url": "https://artificialanalysis.ai/models/glm-4-6"
+        },
+        {
+          "rank": 5,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Kimi K2 Thinking",
+          "company": {
+            "zh": "月之暗面",
+            "en": "Moonshot"
+          },
+          "companyKey": "moonshot",
+          "score": 0.18,
+          "url": "https://artificialanalysis.ai/models/kimi-k2-thinking"
+        },
+        {
+          "rank": 6,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GPT-5.2 mini",
+          "company": {
+            "zh": "OpenAI",
+            "en": "OpenAI"
+          },
+          "companyKey": "openai",
+          "score": 0.24,
+          "url": "https://artificialanalysis.ai/models/gpt-5-2-mini"
+        },
+        {
+          "rank": 7,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Claude Sonnet 4.5",
+          "company": {
+            "zh": "Anthropic",
+            "en": "Anthropic"
+          },
+          "companyKey": "anthropic",
+          "score": 0.31,
+          "url": "https://artificialanalysis.ai/models/claude-sonnet-4-5"
+        },
+        {
+          "rank": 8,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Grok 4.1 Code",
+          "company": {
+            "zh": "xAI",
+            "en": "xAI"
+          },
+          "companyKey": "xai",
+          "score": 0.38,
+          "url": "https://artificialanalysis.ai/models/grok-4-1-code"
+        },
+        {
+          "rank": 9,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GPT-5.2",
+          "company": {
+            "zh": "OpenAI",
+            "en": "OpenAI"
+          },
+          "companyKey": "openai",
+          "score": 0.52,
+          "url": "https://artificialanalysis.ai/models/gpt-5-2"
+        },
+        {
+          "rank": 10,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Gemini 3 Pro",
+          "company": {
+            "zh": "Google",
+            "en": "Google"
+          },
+          "companyKey": "google",
+          "score": 0.61,
+          "url": "https://artificialanalysis.ai/models/gemini-3-pro"
+        },
+        {
+          "rank": 11,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Claude Opus 4.5",
+          "company": {
+            "zh": "Anthropic",
+            "en": "Anthropic"
+          },
+          "companyKey": "anthropic",
+          "score": 0.89,
+          "url": "https://artificialanalysis.ai/models/claude-opus-4-5"
+        }
+      ]
+    },
+    "text_to_image": {
+      "label": {
+        "zh": "文生图",
+        "en": "Text-to-Image"
+      },
+      "note": {
+        "zh": "文生图质量（Elo），越高越好",
+        "en": "Text-to-image quality (Elo), higher is better"
+      },
+      "unit": "elo",
+      "higherIsBetter": true,
+      "sourceUrl": "https://artificialanalysis.ai/leaderboards/text-to-image",
+      "entries": [
+        {
+          "rank": 1,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Flux 2 Pro",
+          "company": {
+            "zh": "Black Forest Labs",
+            "en": "Black Forest Labs"
+          },
+          "companyKey": "blackforestlabs",
+          "score": 90,
+          "url": "https://artificialanalysis.ai/models/flux-2-pro"
+        },
+        {
+          "rank": 2,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "GPT-Image-1.5",
+          "company": {
+            "zh": "OpenAI",
+            "en": "OpenAI"
+          },
+          "companyKey": "openai",
+          "score": 88,
+          "url": "https://artificialanalysis.ai/models/gpt-image-1-5"
+        },
+        {
+          "rank": 3,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Imagen 4 Ultra",
+          "company": {
+            "zh": "Google",
+            "en": "Google"
+          },
+          "companyKey": "google",
+          "score": 87,
+          "url": "https://artificialanalysis.ai/models/imagen-4-ultra"
+        },
+        {
+          "rank": 4,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Ideogram 3.0",
+          "company": {
+            "zh": "Ideogram",
+            "en": "Ideogram"
+          },
+          "companyKey": "ideogram",
+          "score": 85,
+          "url": "https://artificialanalysis.ai/models/ideogram-3-0"
+        },
+        {
+          "rank": 5,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Midjourney v7",
+          "company": {
+            "zh": "Midjourney",
+            "en": "Midjourney"
+          },
+          "companyKey": "midjourney",
+          "score": 84,
+          "url": "https://artificialanalysis.ai/models/midjourney-v7"
+        },
+        {
+          "rank": 6,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Flux 2 Dev",
+          "company": {
+            "zh": "Black Forest Labs",
+            "en": "Black Forest Labs"
+          },
+          "companyKey": "blackforestlabs",
+          "score": 82,
+          "url": "https://artificialanalysis.ai/models/flux-2-dev"
+        },
+        {
+          "rank": 7,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Stable Diffusion 3.5 Large",
+          "company": {
+            "zh": "Stability AI",
+            "en": "Stability AI"
+          },
+          "companyKey": "stability",
+          "score": 80,
+          "url": "https://artificialanalysis.ai/models/stable-diffusion-3-5-large"
+        },
+        {
+          "rank": 8,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Recraft V3",
+          "company": {
+            "zh": "Recraft",
+            "en": "Recraft"
+          },
+          "companyKey": "recraft",
+          "score": 79,
+          "url": "https://artificialanalysis.ai/models/recraft-v3"
+        },
+        {
+          "rank": 9,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Hunyuan Image 3",
+          "company": {
+            "zh": "腾讯",
+            "en": "Tencent"
+          },
+          "companyKey": "tencent",
+          "score": 77,
+          "url": "https://artificialanalysis.ai/models/hunyuan-image-3"
+        },
+        {
+          "rank": 10,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Qwen-Image",
+          "company": {
+            "zh": "阿里",
+            "en": "Alibaba"
+          },
+          "companyKey": "alibaba",
+          "score": 75,
+          "url": "https://artificialanalysis.ai/models/qwen-image"
+        },
+        {
+          "rank": 11,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Seedream 4.0",
+          "company": {
+            "zh": "字节跳动",
+            "en": "ByteDance"
+          },
+          "companyKey": "bytedance",
+          "score": 74,
+          "url": "https://artificialanalysis.ai/models/seedream-4-0"
+        }
+      ]
+    },
+    "image_to_video": {
+      "label": {
+        "zh": "图生视频",
+        "en": "Image-to-Video"
+      },
+      "note": {
+        "zh": "图生视频质量（Elo），越高越好",
+        "en": "Image-to-video quality (Elo), higher is better"
+      },
+      "unit": "elo",
+      "higherIsBetter": true,
+      "sourceUrl": "https://artificialanalysis.ai/leaderboards/image-to-video",
+      "entries": [
+        {
+          "rank": 1,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Veo 3.1",
+          "company": {
+            "zh": "Google",
+            "en": "Google"
+          },
+          "companyKey": "google",
+          "score": 89,
+          "url": "https://artificialanalysis.ai/models/veo-3-1"
+        },
+        {
+          "rank": 2,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Sora 2 Pro",
+          "company": {
+            "zh": "OpenAI",
+            "en": "OpenAI"
+          },
+          "companyKey": "openai",
+          "score": 87,
+          "url": "https://artificialanalysis.ai/models/sora-2-pro"
+        },
+        {
+          "rank": 3,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Kling 2.1 Turbo",
+          "company": {
+            "zh": "快手",
+            "en": "Kuaishou"
+          },
+          "companyKey": "kuaishou",
+          "score": 84,
+          "url": "https://artificialanalysis.ai/models/kling-2-1-turbo"
+        },
+        {
+          "rank": 4,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "HunyuanVideo 3",
+          "company": {
+            "zh": "腾讯",
+            "en": "Tencent"
+          },
+          "companyKey": "tencent",
+          "score": 82,
+          "url": "https://artificialanalysis.ai/models/hunyuanvideo-3"
+        },
+        {
+          "rank": 5,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Runway Gen-4.5",
+          "company": {
+            "zh": "Runway",
+            "en": "Runway"
+          },
+          "companyKey": "runway",
+          "score": 81,
+          "url": "https://artificialanalysis.ai/models/runway-gen-4-5"
+        },
+        {
+          "rank": 6,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Luma Ray3",
+          "company": {
+            "zh": "Luma AI",
+            "en": "Luma AI"
+          },
+          "companyKey": "luma",
+          "score": 80,
+          "url": "https://artificialanalysis.ai/models/luma-ray3"
+        },
+        {
+          "rank": 7,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "MiniMax M2",
+          "company": {
+            "zh": "MiniMax",
+            "en": "MiniMax"
+          },
+          "companyKey": "minimax",
+          "score": 78,
+          "url": "https://artificialanalysis.ai/models/minimax-m2"
+        },
+        {
+          "rank": 8,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Pika 2.2",
+          "company": {
+            "zh": "Pika",
+            "en": "Pika"
+          },
+          "companyKey": "pika",
+          "score": 76,
+          "url": "https://artificialanalysis.ai/models/pika-2-2"
+        },
+        {
+          "rank": 9,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Wan 2.5",
+          "company": {
+            "zh": "阿里",
+            "en": "Alibaba"
+          },
+          "companyKey": "alibaba",
+          "score": 74,
+          "url": "https://artificialanalysis.ai/models/wan-2-5"
+        },
+        {
+          "rank": 10,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "Dreamina 2.1",
+          "company": {
+            "zh": "字节跳动",
+            "en": "ByteDance"
+          },
+          "companyKey": "bytedance",
+          "score": 72,
+          "url": "https://artificialanalysis.ai/models/dreamina-2-1"
+        },
+        {
+          "rank": 11,
+          "rankDelta": "same",
+          "rankFrom": null,
+          "model": "PixVerse 4",
+          "company": {
+            "zh": "PixVerse",
+            "en": "PixVerse"
+          },
+          "companyKey": "pixverse",
+          "score": 70,
+          "url": "https://artificialanalysis.ai/models/pixverse-4"
+        }
+      ]
+    }
+  }
+}

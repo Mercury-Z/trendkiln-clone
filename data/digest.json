@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T06:29:08.873Z",
+  "items": [
+    {
+      "type": "news",
+      "title": "Visual Studio Code 1.138 (Insiders)",
+      "description": "Learn what's new in Visual Studio Code 1.138 (Insiders) Read the full article",
+      "url": "https://code.visualstudio.com/updates/v1_138",
+      "source": "VS Code Blog",
+      "reason": "VS Code Blog · 2026-09-16",
+      "id": "feed:https://code.visualstudio.com/updates/v1_138"
+    },
+    {
+      "type": "github",
+      "title": "JustVugg/colibri 星标异动",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "url": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending",
+      "reason": "GitHub Trending · +34 星标",
+      "id": "repo:JustVugg/colibri"
+    },
+    {
+      "type": "model",
+      "title": "Claude Opus 4.5 (max) 榜单位置",
+      "description": "智能指数 · #1 · Anthropic",
+      "url": "https://artificialanalysis.ai/models/claude-opus-4-5",
+      "source": "Artificial Analysis",
+      "reason": "Artificial Analysis · 智能指数 #1",
+      "id": "model:Claude Opus 4.5 (max)"
+    },
+    {
+      "type": "news",
+      "title": "commit-rewriter 0.1",
+      "description": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publication. If you want to edit the commit…",
+      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "source": "Simon Willison",
+      "reason": "Simon Willison · 2026-09-14",
+      "id": "feed:https://simonwillison.net/2026/Sep/14/commit-rewriter/"
+    },
+    {
+      "type": "github",
+      "title": "ever-co/ever-gauzy 星标异动",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "source": "GitHub Trending",
+      "reason": "GitHub Trending · +11 星标",
+      "id": "repo:ever-co/ever-gauzy"
+    },
+    {
+      "type": "model",
+      "title": "Claude Sonnet 4.5 榜单位置",
+      "description": "编程智能体指数 · #1 · Anthropic",
+      "url": "https://artificialanalysis.ai/models/claude-sonnet-4-5",
+      "source": "Artificial Analysis",
+      "reason": "Artificial Analysis · 编程智能体指数 #1",
+      "id": "model:Claude Sonnet 4.5"
+    },
+    {
+      "type": "news",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI Blog",
+      "reason": "OpenAI Blog · 2026-09-14",
+      "id": "feed:https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
+    {
+      "type": "github",
+      "title": "bilawalsidhu/gods-eye-view 星标异动",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending",
+      "reason": "GitHub Trending · +28 星标",
+      "id": "repo:bilawalsidhu/gods-eye-view"
+    }
+  ]
+}

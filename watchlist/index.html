@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>我的关注 · Trendkiln</title>
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <header class="topbar"><div class="topbar-inner" id="app-nav"></div></header>
+  <main class="wrap">
+    <div id="page-root">
+      <div class="page-head">
+        <h1 class="page-title" id="page-title"></h1>
+        <p class="page-sub" id="page-sub"></p>
+      </div>
+      <form class="watchlist-form" id="watch-form" autocomplete="off">
+        <select id="watch-type">
+          <option value="repo">repo</option>
+          <option value="model">model</option>
+          <option value="keyword">keyword</option>
+        </select>
+        <input id="watch-input" type="text" placeholder="owner/repo · 模型名 · 关键词">
+        <button class="btn primary" type="submit" id="watch-add">＋</button>
+      </form>
+      <div id="watch-root"><div class="loading">…</div></div>
+    </div>
+  </main>
+  <footer class="footer" id="footer"></footer>
+  <script>window.BASE = '../';</script>
+  <script src="../assets/app.js"></script>
+  <script src="../assets/watchlist.js"></script>
+</body>
+</html>

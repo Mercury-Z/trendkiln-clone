@@ -1,0 +1,162 @@
+{
+  "updatedAt": "2026-09-14T06:28:57.801Z",
+  "models": {
+    "intelligence": {
+      "ts": "2026-09-14T06:29:05.403Z",
+      "byModel": {
+        "Claude Opus 4.5 (max)": 1,
+        "GPT-5.2 (max)": 2,
+        "Gemini 3 Pro (max)": 3,
+        "Grok 4.1 (max)": 4,
+        "Claude Sonnet 4.5 (high)": 5,
+        "Kimi K2 Thinking (max)": 6,
+        "GLM-4.6 (max)": 7,
+        "GPT-5.1 (high)": 8,
+        "Gemini 3 Flash (high)": 9,
+        "DeepSeek V3.2 (max)": 10,
+        "GPT-5.2 mini (max)": 11,
+        "Qwen3.5 (max)": 12
+      }
+    },
+    "coding_agent": {
+      "ts": "2026-09-14T06:29:05.403Z",
+      "byModel": {
+        "Claude Sonnet 4.5": 1,
+        "Claude Opus 4.5": 2,
+        "Gemini 3 Pro": 3,
+        "GPT-5.2": 4,
+        "Grok 4.1 Code": 5,
+        "GPT-5.2 mini": 6,
+        "GLM-4.6": 7,
+        "Kimi K2 Thinking": 8,
+        "Gemini 3 Flash": 9,
+        "DeepSeek V3.2": 10,
+        "Qwen3.5": 11
+      }
+    },
+    "coding_cost": {
+      "ts": "2026-09-14T06:29:05.403Z",
+      "byModel": {
+        "DeepSeek V3.2": 1,
+        "Qwen3.5": 2,
+        "Gemini 3 Flash": 3,
+        "GLM-4.6": 4,
+        "Kimi K2 Thinking": 5,
+        "GPT-5.2 mini": 6,
+        "Claude Sonnet 4.5": 7,
+        "Grok 4.1 Code": 8,
+        "GPT-5.2": 9,
+        "Gemini 3 Pro": 10,
+        "Claude Opus 4.5": 11
+      }
+    },
+    "text_to_image": {
+      "ts": "2026-09-14T06:29:05.403Z",
+      "byModel": {
+        "Flux 2 Pro": 1,
+        "GPT-Image-1.5": 2,
+        "Imagen 4 Ultra": 3,
+        "Ideogram 3.0": 4,
+        "Midjourney v7": 5,
+        "Flux 2 Dev": 6,
+        "Stable Diffusion 3.5 Large": 7,
+        "Recraft V3": 8,
+        "Hunyuan Image 3": 9,
+        "Qwen-Image": 10,
+        "Seedream 4.0": 11
+      }
+    },
+    "image_to_video": {
+      "ts": "2026-09-14T06:29:05.403Z",
+      "byModel": {
+        "Veo 3.1": 1,
+        "Sora 2 Pro": 2,
+        "Kling 2.1 Turbo": 3,
+        "HunyuanVideo 3": 4,
+        "Runway Gen-4.5": 5,
+        "Luma Ray3": 6,
+        "MiniMax M2": 7,
+        "Pika 2.2": 8,
+        "Wan 2.5": 9,
+        "Dreamina 2.1": 10,
+        "PixVerse 4": 11
+      }
+    }
+  },
+  "github": {
+    "daily": {
+      "ts": "2026-09-14T06:29:05.397Z",
+      "repos": {
+        "JustVugg/colibri": 30361,
+        "ever-co/ever-gauzy": 5391,
+        "bilawalsidhu/gods-eye-view": 32411,
+        "tech-leads-club/agent-skills": 5796,
+        "melgarafael/DeskcommCRM": 2333,
+        "calesthio/OpenMontage": 58709,
+        "asgeirtj/system_prompts_leaks": 66267,
+        "vxcontrol/pentagi": 24151,
+        "multimodal-art-projection/YuE": 7920,
+        "yuliskov/SmartTube": 33522,
+        "alphaXiv/OpenResearch": 2243,
+        "debpalash/VoiceStudio": 27515,
+        "SnailSploit/Claude-Red": 4290,
+        "alibaba/open-code-review": 23845,
+        "jihe520/MathModelAgent": 5448,
+        "tonhowtf/omniget": 11960,
+        "jiji262/douyin-downloader": 11550,
+        "Swordfish90/cool-retro-term": 26294,
+        "huggingface/transformers": 165673
+      }
+    },
+    "weekly": {
+      "ts": "2026-09-14T06:29:05.398Z",
+      "repos": {
+        "ayghri/i-have-adhd": 44644,
+        "affaan-m/ECC": 257903,
+        "openai/plugins": 6645,
+        "bilawalsidhu/gods-eye-view": 32411,
+        "mksglu/context-mode": 22704,
+        "DietrichGebert/ponytail": 137601,
+        "tt-a1i/archify": 61229,
+        "openai/skills": 27124,
+        "heygen-com/hyperframes": 49730,
+        "microsoft/markitdown": 183711,
+        "obra/superpowers": 286325,
+        "coreyhaines31/marketingskills": 50068,
+        "ChromeDevTools/chrome-devtools-mcp": 51866,
+        "cathrynlavery/diagram-design": 39394,
+        "THU-MAIC/OpenMAIC": 36589,
+        "Tencent/WeKnora": 22970,
+        "blader/humanizer": 47792,
+        "max-sixty/worktrunk": 7560,
+        "humanlayer/skills": 4021,
+        "earthtojake/text-to-cad": 15647,
+        "petergyang/no-ai-slop": 9286,
+        "github/spec-kit": 136516,
+        "kunchenguid/firstmate": 5805
+      }
+    },
+    "monthly": {
+      "ts": "2026-09-14T06:29:05.398Z",
+      "repos": {
+        "omacom/omarchy": 40914,
+        "tt-a1i/archify": 61229,
+        "anthropics/claude-plugins-community": 3961,
+        "AprilNEA/OpenLogi": 20977,
+        "cursor/plugins": 7643,
+        "volcengine/OpenViking": 37087,
+        "cathrynlavery/diagram-design": 39394,
+        "freestylefly/awesome-gpt-image-2": 31723,
+        "THU-MAIC/OpenMAIC": 36589,
+        "ayghri/i-have-adhd": 44644,
+        "vorssaint/vorssaint-utils": 18820,
+        "modular/modular": 29732,
+        "akitaonrails/ai-memory": 6719,
+        "Lakr233/vphone-cli": 11865,
+        "debpalash/VoiceStudio": 27515,
+        "apache/maka": 5363,
+        "cordiverse/cordis": 8467
+      }
+    }
+  }
+}
