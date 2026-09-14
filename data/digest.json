@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generatedAt": "2026-09-14T06:29:08.873Z",
+  "generatedAt": "2026-09-14T06:36:50.165Z",
   "items": [
     {
       "type": "news",
@@ -17,7 +17,7 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "url": "https://github.com/JustVugg/colibri",
       "source": "GitHub Trending",
-      "reason": "GitHub Trending · +34 星标",
+      "reason": "GitHub Trending · +13 星标",
       "id": "repo:JustVugg/colibri"
     },
     {
@@ -44,7 +44,7 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "url": "https://github.com/ever-co/ever-gauzy",
       "source": "GitHub Trending",
-      "reason": "GitHub Trending · +11 星标",
+      "reason": "GitHub Trending · +7 星标",
       "id": "repo:ever-co/ever-gauzy"
     },
     {
@@ -71,7 +71,7 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "source": "GitHub Trending",
-      "reason": "GitHub Trending · +28 星标",
+      "reason": "GitHub Trending · +12 星标",
       "id": "repo:bilawalsidhu/gods-eye-view"
     }
   ]

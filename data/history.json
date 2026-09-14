@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-14T06:28:57.801Z",
+  "updatedAt": "2026-09-14T06:36:33.017Z",
   "models": {
     "intelligence": {
-      "ts": "2026-09-14T06:29:05.403Z",
+      "ts": "2026-09-14T06:36:49.481Z",
       "byModel": {
         "Claude Opus 4.5 (max)": 1,
         "GPT-5.2 (max)": 2,
@@ -19,7 +19,7 @@
       }
     },
     "coding_agent": {
-      "ts": "2026-09-14T06:29:05.403Z",
+      "ts": "2026-09-14T06:36:49.481Z",
       "byModel": {
         "Claude Sonnet 4.5": 1,
         "Claude Opus 4.5": 2,
@@ -35,7 +35,7 @@
       }
     },
     "coding_cost": {
-      "ts": "2026-09-14T06:29:05.403Z",
+      "ts": "2026-09-14T06:36:49.481Z",
       "byModel": {
         "DeepSeek V3.2": 1,
         "Qwen3.5": 2,
@@ -51,7 +51,7 @@
       }
     },
     "text_to_image": {
-      "ts": "2026-09-14T06:29:05.403Z",
+      "ts": "2026-09-14T06:36:49.481Z",
       "byModel": {
         "Flux 2 Pro": 1,
         "GPT-Image-1.5": 2,
@@ -67,7 +67,7 @@
       }
     },
     "image_to_video": {
-      "ts": "2026-09-14T06:29:05.403Z",
+      "ts": "2026-09-14T06:36:49.481Z",
       "byModel": {
         "Veo 3.1": 1,
         "Sora 2 Pro": 2,
@@ -85,75 +85,75 @@
   },
   "github": {
     "daily": {
-      "ts": "2026-09-14T06:29:05.397Z",
+      "ts": "2026-09-14T06:36:49.471Z",
       "repos": {
-        "JustVugg/colibri": 30361,
-        "ever-co/ever-gauzy": 5391,
-        "bilawalsidhu/gods-eye-view": 32411,
-        "tech-leads-club/agent-skills": 5796,
-        "melgarafael/DeskcommCRM": 2333,
-        "calesthio/OpenMontage": 58709,
-        "asgeirtj/system_prompts_leaks": 66267,
-        "vxcontrol/pentagi": 24151,
-        "multimodal-art-projection/YuE": 7920,
-        "yuliskov/SmartTube": 33522,
-        "alphaXiv/OpenResearch": 2243,
-        "debpalash/VoiceStudio": 27515,
-        "SnailSploit/Claude-Red": 4290,
-        "alibaba/open-code-review": 23845,
-        "jihe520/MathModelAgent": 5448,
-        "tonhowtf/omniget": 11960,
-        "jiji262/douyin-downloader": 11550,
-        "Swordfish90/cool-retro-term": 26294,
-        "huggingface/transformers": 165673
+        "JustVugg/colibri": 30374,
+        "ever-co/ever-gauzy": 5398,
+        "bilawalsidhu/gods-eye-view": 32423,
+        "tech-leads-club/agent-skills": 5798,
+        "melgarafael/DeskcommCRM": 2338,
+        "calesthio/OpenMontage": 58718,
+        "asgeirtj/system_prompts_leaks": 66270,
+        "vxcontrol/pentagi": 24159,
+        "multimodal-art-projection/YuE": 7924,
+        "yuliskov/SmartTube": 33524,
+        "alphaXiv/OpenResearch": 2244,
+        "debpalash/VoiceStudio": 27531,
+        "SnailSploit/Claude-Red": 4293,
+        "alibaba/open-code-review": 23853,
+        "jihe520/MathModelAgent": 5451,
+        "tonhowtf/omniget": 11969,
+        "jiji262/douyin-downloader": 11552,
+        "Swordfish90/cool-retro-term": 26296,
+        "huggingface/transformers": 165676
       }
     },
     "weekly": {
-      "ts": "2026-09-14T06:29:05.398Z",
+      "ts": "2026-09-14T06:36:49.472Z",
       "repos": {
-        "ayghri/i-have-adhd": 44644,
-        "affaan-m/ECC": 257903,
+        "ayghri/i-have-adhd": 44655,
+        "affaan-m/ECC": 257907,
         "openai/plugins": 6645,
-        "bilawalsidhu/gods-eye-view": 32411,
-        "mksglu/context-mode": 22704,
-        "DietrichGebert/ponytail": 137601,
-        "tt-a1i/archify": 61229,
+        "bilawalsidhu/gods-eye-view": 32423,
+        "mksglu/context-mode": 22706,
+        "DietrichGebert/ponytail": 137610,
+        "tt-a1i/archify": 61239,
         "openai/skills": 27124,
-        "heygen-com/hyperframes": 49730,
-        "microsoft/markitdown": 183711,
-        "obra/superpowers": 286325,
+        "heygen-com/hyperframes": 49739,
+        "microsoft/markitdown": 183714,
+        "obra/superpowers": 286327,
         "coreyhaines31/marketingskills": 50068,
-        "ChromeDevTools/chrome-devtools-mcp": 51866,
-        "cathrynlavery/diagram-design": 39394,
-        "THU-MAIC/OpenMAIC": 36589,
-        "Tencent/WeKnora": 22970,
-        "blader/humanizer": 47792,
+        "ChromeDevTools/chrome-devtools-mcp": 51867,
+        "cathrynlavery/diagram-design": 39400,
+        "THU-MAIC/OpenMAIC": 36594,
+        "Tencent/WeKnora": 22977,
+        "blader/humanizer": 47793,
         "max-sixty/worktrunk": 7560,
         "humanlayer/skills": 4021,
-        "earthtojake/text-to-cad": 15647,
+        "earthtojake/text-to-cad": 15649,
         "petergyang/no-ai-slop": 9286,
-        "github/spec-kit": 136516,
+        "github/spec-kit": 136521,
         "kunchenguid/firstmate": 5805
       }
     },
     "monthly": {
-      "ts": "2026-09-14T06:29:05.398Z",
+      "ts": "2026-09-14T06:36:49.472Z",
       "repos": {
         "omacom/omarchy": 40914,
-        "tt-a1i/archify": 61229,
+        "tt-a1i/archify": 61240,
         "anthropics/claude-plugins-community": 3961,
-        "AprilNEA/OpenLogi": 20977,
+        "AprilNEA/OpenLogi": 20980,
         "cursor/plugins": 7643,
-        "volcengine/OpenViking": 37087,
-        "cathrynlavery/diagram-design": 39394,
-        "freestylefly/awesome-gpt-image-2": 31723,
-        "THU-MAIC/OpenMAIC": 36589,
-        "ayghri/i-have-adhd": 44644,
-        "vorssaint/vorssaint-utils": 18820,
+        "volcengine/OpenViking": 37089,
+        "cathrynlavery/diagram-design": 39400,
+        "freestylefly/awesome-gpt-image-2": 31728,
+        "THU-MAIC/OpenMAIC": 36594,
+        "ayghri/i-have-adhd": 44655,
+        "vorssaint/vorssaint-utils": 18822,
         "modular/modular": 29732,
         "akitaonrails/ai-memory": 6719,
         "Lakr233/vphone-cli": 11865,
-        "debpalash/VoiceStudio": 27515,
+        "debpalash/VoiceStudio": 27531,
         "apache/maka": 5363,
         "cordiverse/cordis": 8467
       }
