@@ -1,7 +1,0 @@
-node_modules/
-scripts/_*.js
-data/_*.html
-data/_*.txt
-.DS_Store
-Thumbs.db
-*.log
