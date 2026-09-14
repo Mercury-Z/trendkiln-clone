@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://mercury-z.github.io/trendkiln-clone/sitemap.xml
